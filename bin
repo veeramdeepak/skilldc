@@ -1,0 +1,7 @@
+n=int(input())
+s=bin(s)
+a=s[2:]
+b=a[:3]
+c=a[-3:]
+print(int(b,2))
+print(int(c,2))
