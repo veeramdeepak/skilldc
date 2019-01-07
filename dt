@@ -1,0 +1,5 @@
+int a,c;
+cin>>a>>c;
+int s;
+s=c*c
+cout<<a/s;
