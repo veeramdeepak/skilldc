@@ -1,0 +1,5 @@
+n=int(input())
+for i in range(n+1,100000000):
+     if i%10==2:
+         print(i)
+         break
